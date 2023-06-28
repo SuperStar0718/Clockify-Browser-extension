@@ -14,7 +14,7 @@ Just fork the repo, make your changes, and send us a pull request.
 
 ## Something needs fixing?
 
-[Create an issue](https://github.com/clockify/browser-extension/issues) here on Github and our team will take a look the first change we get (which may take a few days, depending on our workload).
+[Create an issue](https://github.com/SuperStar0718/Clockify-Browser-extension/issues) here on Github and our team will take a look the first change we get (which may take a few days, depending on our workload).
 
 If you need the fix quicker, feel free to update the integration yourself and send us a pull request. We typically take care of them within a few days.
 
